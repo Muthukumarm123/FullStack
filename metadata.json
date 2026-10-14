@@ -1,0 +1,6 @@
+{
+  "name": "WebDev Encyclopedia - Web Development Learning & Reference",
+  "description": "Structured learning roadmap and reference encyclopedia for HTML, CSS, JavaScript, React, Node.js, and Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
